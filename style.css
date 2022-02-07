@@ -139,6 +139,9 @@ html,body{
 
 
 @media (max-width: 500px) {
+    #nav{
+        margin-top: 5px;
+    }
     #nleft{
         margin: 10px;
     }
@@ -146,6 +149,7 @@ html,body{
     #nright{
         margin: 0px;
     }
+
     #text h1 {
         font-size: 20vw;
         line-height: 16vw;
